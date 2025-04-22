@@ -4,6 +4,6 @@ NeighborNet is a MERN-based community platform connecting neighbors through help
 
 ## Landing Page
 
-![1725997517063](NeighbourNet-mainimage/README/1725997517063.png)
+![1725997517063](NeighbourNet-main/image/README/1725997517063.png)
 
 ( Under Devlopment )
